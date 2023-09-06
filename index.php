@@ -1,5 +1,4 @@
 <?php
-$pageTitle = "Home";
 include "viewheader.php;
 ?>
     <h1>Hello, world!</h1>
