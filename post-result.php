@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "Post Result";
+$pageTitle = "Post result";
 include "view-header.php";
 ?>
 <h1>Post Result</h1>
